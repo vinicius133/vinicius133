@@ -26,7 +26,7 @@
 
  **<h3 align="center">Habilidades</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 18px; justify-content: center;"><img src="https://cdn.simpleicons.org/python/3776AB" height="28" alt="Python" style="margin-right: 18px"> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="28" alt="JavaScript" style="margin-right: 18px"> <img src="https://cdn.simpleicons.org/git/F1502F" height="28" alt="Git" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=c" height="28" alt="C" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=vscode" height="28" alt="VSCode" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=figma" height="28" alt="Figma" style="margin-right: 18px"></div>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 18px; justify-content: center;"><img src="https://cdn.simpleicons.org/python/3776AB" height="28" alt="Python" style="margin-right: 18px"> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="28" alt="JavaScript" style="margin-right: 18px"> <img src="https://cdn.simpleicons.org/git/F1502F" height="28" alt="Git" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=c" height="28" alt="C" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=vscode" height="28" alt="VSCode" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=figma" height="28" alt="Figma" style="margin-right: 18px"></div>
 
  **<h3 align="left">Status do Github</h3>**
 
