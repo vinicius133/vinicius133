@@ -31,7 +31,7 @@
 
 <br>
 
-<table width="100%" style="border: 1px solid #8a2be2; background-color: #0b090a; border-radius: 8px;">
+<table align="center" width="100%" style="border: 1px solid #8a2be2; background-color: #0b090a; border-radius: 8px;">
   <tr>
     <td style="padding: 20px; font-family: 'Courier New', monospace;">
       <h3 style="color: #8a2be2; text-shadow: 0 0 5px #8a2be2; margin-top: 0;">⚡ core_dump / sobre_mim</h3>
