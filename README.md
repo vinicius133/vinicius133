@@ -5,7 +5,7 @@
         <img src="https://giffiles.alphacoders.com/224/224303.gif" width="180px" style="border-radius: 50%; border: 3px solid #00ff66; box-shadow: 0 0 15px #00ff66;">
         <br><br>
         <h1 align="center" style="font-family: 'Courier New', monospace; color: #00ff66; text-shadow: 0 0 10px #00ff66; margin: 0;">
-          👾 SYSTEM_ONLINE: VINÍCIUS 👾
+          👾 Olá, sou o VINÍCIUS! 👾
         </h1>
         <p align="center" style="color: #8a2be2; font-family: monospace; font-weight: bold; font-size: 16px;">
           // Computer Science Student & Cybersecurity Aspirant
