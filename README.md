@@ -2,7 +2,7 @@
   <table width="100%" style="border-collapse: collapse; border: 2px solid #00ff66; border-radius: 12px; overflow: hidden;">
     <tr>
       <td align="center" style="padding: 90px 20px; background-color: #0a0a0c; background-image: linear-gradient(rgba(10, 10, 12, 0.85), rgba(10, 10, 12, 0.85)), url('https://getwallpapers.com/wallpaper/full/9/0/c/1120863-sandman-wallpaper-3840x2160-ipad-retina.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat;">
-        <img src="https://giffiles.alphacoders.com/224/224303.gif" width="240px" style="border-radius: 50%; border: 4px solid #00ff66; box-shadow: 0 0 25px #00ff66, inset 0 0 15px #00ff66; margin-bottom: 25px;">
+        <img src="https://giffiles.alphacoders.com/224/224303.gif" width="240px" style="border-radius: 20%; border: 1px solid #00ff66; box-shadow: 0 0 25px #00ff66, inset 0 0 15px #00ff66; margin-bottom: 25px;">
         <h1 align="center" style="font-family: 'Courier New', monospace; color: #00ff66; text-shadow: 0 0 15px #00ff66; margin: 0 0 10px 0; font-size: 32px; font-weight: 900; letter-spacing: 2px;">
           &gt; SYSTEM_ONLINE: VINÍCIUS
         </h1>
