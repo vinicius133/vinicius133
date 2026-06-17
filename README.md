@@ -4,7 +4,7 @@
       <td align="center" style="padding: 90px 20px; background-color: #0a0a0c; background-image: linear-gradient(rgba(10, 10, 12, 0.85), rgba(10, 10, 12, 0.85)), url('https://getwallpapers.com/wallpaper/full/9/0/c/1120863-sandman-wallpaper-3840x2160-ipad-retina.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat;">
         <img src="https://giffiles.alphacoders.com/224/224303.gif" width="240px" style="border-radius: 20%; border: 1px solid #00ff66; box-shadow: 0 0 25px #00ff66, inset 0 0 15px #00ff66; margin-bottom: 25px;">
         <h1 align="center" style="font-family: 'Courier New', monospace; color: #00ff66; text-shadow: 0 0 15px #00ff66; margin: 0 0 10px 0; font-size: 32px; font-weight: 900; letter-spacing: 2px;">
-          &gt; SYSTEM_ONLINE: VINÍCIUS
+          &gt; Olá, sou o VINÍCIUS!
         </h1>
         <p align="center" style="color: #8a2be2; font-family: 'Courier New', monospace; font-weight: bold; font-size: 18px; text-shadow: 0 0 8px #8a2be2; margin: 0;">
           // Computer Science Student & Cybersecurity Aspirant
@@ -35,10 +35,10 @@
     <td style="padding: 20px; font-family: 'Courier New', monospace;">
       <h3 style="color: #8a2be2; text-shadow: 0 0 5px #8a2be2; margin-top: 0;">⚡ core_dump / sobre_mim</h3>
       <ul style="list-style: none; padding-left: 0; color: #a2a2a2; line-height: 1.6;">
-        <li><b style="color: #00ff66;">&gt; 💼 atual_foco:</b> Aperfeiçoar programação em C e Frontend Web.</li>
-        <li><b style="color: #00ff66;">&gt; 🌱 estudando:</b> C, GML, Python, HTML, CSS, JavaScript.</li>
-        <li><b style="color: #00ff66;">&gt; ⚡ curiosidade:</b> Programo jogos no Game Maker Studio 2 desde criança.</li>
-        <li><b style="color: #00ff66;">&gt; 📂 portfolio:</b> <a href="https://github.com/vinicius133?tab=repositories" target="_blank" style="color: #00ffff; text-decoration: none;">github.com/vinicius133/repos</a></li>
+        <li><b style="color: #00ff66;">&gt; 💼 Atual_Foco:</b> Aperfeiçoar programação em C e Frontend Web.</li>
+        <li><b style="color: #00ff66;">&gt; 🌱 Estudando:</b> C, GML, Python, HTML, CSS, JavaScript.</li>
+        <li><b style="color: #00ff66;">&gt; ⚡ Curiosidade:</b> Programo jogos no Game Maker Studio 2 desde criança.</li>
+        <li><b style="color: #00ff66;">&gt; 📂 Portfólio:</b> <a href="https://github.com/vinicius133?tab=repositories" target="_blank" style="color: #00ffff; text-decoration: none;">github.com/vinicius133/repos</a></li>
       </ul>
     </td>
   </tr>
