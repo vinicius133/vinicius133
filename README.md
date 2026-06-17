@@ -1,4 +1,6 @@
-![👾Olá, sou o Vinícius!👾](https://giffiles.alphacoders.com/224/224303.gif)
+<div id="gif" align="center">
+  <img src="https://giffiles.alphacoders.com/224/224303.gif">
+</div>
 
 <div id="toc">
   <ul align="center" style="list-style: none">
