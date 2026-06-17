@@ -1,5 +1,5 @@
 <div align="center">
-  <table background="https://getwallpapers.com/wallpaper/full/9/0/c/1120863-sandman-wallpaper-3840x2160-ipad-retina.jpg" width="100%" style="border-collapse: collapse; border: 1px solid #00ff66; border-radius: 10px; overflow: hidden;">
+  <table background="(https://getwallpapers.com/wallpaper/full/9/0/c/1120863-sandman-wallpaper-3840x2160-ipad-retina.jpg)" width="100%" style="border-collapse: collapse; border: 1px solid #00ff66; border-radius: 10px; overflow: hidden;">
     <tr>
       <td align="center" style="padding: 40px; background: rgba(10, 10, 12, 0.85); backdrop-filter: blur(4px);">
         <img src="https://giffiles.alphacoders.com/224/224303.gif" width="180px" style="border-radius: 50%; border: 3px solid #00ff66; box-shadow: 0 0 15px #00ff66;">
