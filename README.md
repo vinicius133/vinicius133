@@ -61,9 +61,8 @@
     <img src="https://skillicons.dev/icons?i=c" height="32" alt="C" style="margin: 0 10px;"> 
     <img src="https://skillicons.dev/icons?i=vscode" height="32" alt="VSCode" style="margin: 0 10px;"> 
     <img src="https://skillicons.dev/icons?i=figma" height="32" alt="Figma" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" height="32" alt="Figma" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="32" alt="Figma" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="32" alt="Figma" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="32" alt="Css" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="32" alt="Html" style="margin: 0 10px;">
 
   </div>
 </div>
