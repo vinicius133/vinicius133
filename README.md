@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>   
-    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
@@ -64,7 +63,9 @@
     <img src="https://skillicons.dev/icons?i=figma" height="32" alt="Figma" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" height="32" alt="Figma" style="margin: 0 10px;">
     <i class="devicon-html5-plain colored"></i>
-    <i class="devicon-css3-plain colored"></i>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
   </div>
 </div>
 
