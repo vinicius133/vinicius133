@@ -71,7 +71,7 @@
 <div align="center">
   <h3 style="font-family: monospace; color: #8a2be2; text-shadow: 0 0 5px #8a2be2;">[ STATUS ]</h3>
   <p align="center">
-    <img width="75%" src="https://streak-stats.demolab.com/?user=vinicius133&theme=tokyonight&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false" alt="GitHub streak Card" style="margin-right: 2%; border-radius: 6px;" />
+    <img width="65%" src="https://streak-stats.demolab.com/?user=vinicius133&theme=tokyonight&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false" alt="GitHub streak Card" style="margin-right: 2%; border-radius: 6px;" />
     
   </p>
 </div>
