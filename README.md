@@ -10,7 +10,7 @@
   <table width="100%" style="border-collapse: collapse; border: 2px solid #00ff66; border-radius: 12px; overflow: hidden;">
     <tr>
       <td align="center" style="padding: 90px 20px; background-color: #0a0a0c; background-size: cover; background-position: center; background-repeat: no-repeat;">
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtkN212bG95NWlzMTc3Yjk1djB1NWNjcHoxa3Flcmt3MGlhaGY1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d2jhrgeEQXnXMYsU/giphy.gif" width="480px" style="border: 0px solid #00ff66; box-shadow: 0 0 25px #00ff66, inset 0 0 15px #00ff66; margin-bottom: 25px;">
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtkN212bG95NWlzMTc3Yjk1djB1NWNjcHoxa3Flcmt3MGlhaGY1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d2jhrgeEQXnXMYsU/giphy.gif" width="25vw" style="border: 0px solid #00ff66; box-shadow: 0 0 25px #00ff66, inset 0 0 15px #00ff66; margin-bottom: 25px;">
         <h1 align="center" style="font-family: 'Courier New', monospace; color: #00ff66; text-shadow: 0 0 15px #00ff66; margin: 0 0 10px 0; font-size: 32px; font-weight: 1000; letter-spacing: 2px;">
           &gt; Olá, sou o VINÍCIUS!
         </h1>
