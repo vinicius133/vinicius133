@@ -11,10 +11,10 @@
     <tr>
       <td align="center" style="padding: 90px 20px; background-color: #0a0a0c; background-size: cover; background-position: center; background-repeat: no-repeat;">
         <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtkN212bG95NWlzMTc3Yjk1djB1NWNjcHoxa3Flcmt3MGlhaGY1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d2jhrgeEQXnXMYsU/giphy.gif" width="480px" style="border: 0px solid #00ff66; box-shadow: 0 0 25px #00ff66, inset 0 0 15px #00ff66; margin-bottom: 25px;">
-        <h1 align="center" style="font-family: 'Courier New', monospace; color: #00ff66; text-shadow: 0 0 15px #00ff66; margin: 0 0 10px 0; font-size: 32px; font-weight: 900; letter-spacing: 2px;">
+        <h1 align="center" style="font-family: 'Courier New', monospace; color: #00ff66; text-shadow: 0 0 15px #00ff66; margin: 0 0 10px 0; font-size: 32px; font-weight: 1000; letter-spacing: 2px;">
           &gt; Olá, sou o VINÍCIUS!
         </h1>
-        <p align="center" style="color: #8a2be2; font-family: 'Courier New', monospace; font-weight: bold; font-size: 18px; text-shadow: 0 0 8px #8a2be2; margin: 0;">
+        <p align="center" style="color: #8a2be2; font-family: 'Courier New', monospace; font-weight: bold; font-size: 22px; text-shadow: 0 0 8px #8a2be2; margin: 0;">
           // Estudante de Ciência da Computação & Cibersegurança
         </p>
       </td>
@@ -42,10 +42,10 @@
   <tr>
     <td style="padding: 20px; font-family: 'Courier New', monospace;">
       <h3 style="color: #8a2be2; text-shadow: 0 0 5px #8a2be2; margin-top: 0;">⚡Sobre mim</h3>
-      <ul style="list-style: none; padding-left: 0; color: #a2a2a2; line-height: 1.6;">
-        <li><b style="color: #00ff66;">&gt; 💼 Foco Atual:</b> Aperfeiçoar programação em C e Frontend Web além de fundamentos de Cibersegurança.</li>
-        <li><b style="color: #00ff66;">&gt; 🌱 Estudando:</b> C, GML, Python, HTML, CSS, JavaScript.</li>
-        <li><b style="color: #00ff66;">&gt; ⚡ Curiosidade:</b> Programo jogos no Game Maker Studio 2 desde criança.</li>
+      <ul style="list-style: none; font-size: 22px; padding-left: 0; color: #a2a2a2; line-height: 1.6;">
+        <li><b style="color: #00ff66;">&gt; 💼 Foco Atual:</b> Aperfeiçoar programação em C e Frontend Web além de fundamentos de Cibersegurança.</li> <br>
+        <li><b style="color: #00ff66;">&gt; 🌱 Estudando:</b> C, GML, Python, HTML, CSS, JavaScript.</li> <br>
+        <li><b style="color: #00ff66;">&gt; ⚡ Curiosidade:</b> Programo jogos no Game Maker Studio 2 desde criança.</li> <br>
         <li><b style="color: #00ff66;">&gt; 📂 Portfólio:</b> <a href="https://github.com/vinicius133?tab=repositories" target="_blank" style="color: #00ffff; text-decoration: none;">github.com/vinicius133/repos</a></li>
       </ul>
     </td>
