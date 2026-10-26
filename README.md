@@ -27,7 +27,7 @@
 <div align="center">
   <h3 style="font-family: monospace; color: #00ffff; text-shadow: 0 0 5px #00ffff;">[ Conecte-se comigo ]</h3>
   <p>
-    <a href="https://github.com/vinicius133" target="_blank">
+    <a href="https://github.com/vinicius133?tab=repositories" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=%2300ff66" height="35" style="margin-right: 10px;">
     </a> 
     <a href="https://www.instagram.com/vini_queiroz._" target="_blank">
@@ -43,8 +43,8 @@
     <td style="padding: 20px; font-family: 'Courier New', monospace;">
       <h3 style="color: #8a2be2; text-shadow: 0 0 5px #8a2be2; margin-top: 0;">⚡Sobre mim</h3>
       <ul style="list-style: none; font-size: 22px; padding-left: 0; color: #a2a2a2; line-height: 1.6;">
-        <li><b style="color: #00ff66;">&gt; 💼 Foco Atual:</b> Aperfeiçoar programação em C e Frontend Web além de fundamentos de Cibersegurança.</li> <br>
-        <li><b style="color: #00ff66;">&gt; 🌱 Estudando:</b> C, GML, Python, HTML, CSS, JavaScript.</li> <br>
+        <li><b style="color: #00ff66;">&gt; 💼 Foco Atual:</b> Aperfeiçoar programação em C e fundamentos de Cibersegurança.</li> <br>
+        <li><b style="color: #00ff66;">&gt; 🌱 Estudando:</b> C, GML, Assembly.</li> <br>
         <li><b style="color: #00ff66;">&gt; ⚡ Curiosidade:</b> Programo jogos no Game Maker Studio 2 desde criança.</li> <br>
         <li><b style="color: #00ff66;">&gt; 📂 Portfólio:</b> <a href="https://github.com/vinicius133?tab=repositories" target="_blank" style="color: #00ffff; text-decoration: none;">github.com/vinicius133/repos</a></li>
       </ul>
@@ -53,17 +53,6 @@
 </table>
 
 <br>
-
-<div align="center">
-  <h3 style="font-family: monospace; color: #00ffff; text-shadow: 0 0 5px #00ffff;">[ TECH_STACK ]</h3>
-  <div style="background: #0d0d11; padding: 20px; border-radius: 8px; border: 1px solid #1f1f2e; display: inline-block; width: 100%;"> 
-    <img src="https://cdn.simpleicons.org/git/F1502F" height="32" alt="Git" style="margin: 0 10px;"> 
-    <img src="https://skillicons.dev/icons?i=c" height="32" alt="C" style="margin: 0 10px;"> 
-    <img src="https://skillicons.dev/icons?i=vscode" height="32" alt="VSCode" style="margin: 0 10px;"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="32" alt="Css" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="32" alt="Html" style="margin: 0 10px;">
-
-  </div>
 </div>
 
 <br>
