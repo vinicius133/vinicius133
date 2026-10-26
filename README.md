@@ -15,7 +15,7 @@
           &gt; Olá, sou o VINÍCIUS!
         </h1>
         <p align="center" style="color: #8a2be2; font-family: 'Courier New', monospace; font-weight: bold; font-size: 22px; text-shadow: 0 0 8px #8a2be2; margin: 0;">
-          // Estudante de Ciência da Computação & Cibersegurança
+          // Estudante de Ciência da Computação
         </p>
       </td>
     </tr>
